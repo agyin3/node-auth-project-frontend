@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.login-link {
+  font-size: 1.6rem;
+  color: #4d80e4;
+}
+
+.login-link:hover {
+  color: #46b3e6;
+  text-decoration: underline;
+  cursor: pointer;
+}
